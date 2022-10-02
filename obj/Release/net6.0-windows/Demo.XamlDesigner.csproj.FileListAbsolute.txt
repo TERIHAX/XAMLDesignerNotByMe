@@ -1,0 +1,46 @@
+D:\WpfDesigner-master\XamlDesigner\bin\Release\net6.0-windows\SharpDevelop XamlDesigner.exe
+D:\WpfDesigner-master\XamlDesigner\bin\Release\net6.0-windows\NewFileTemplate.xaml
+D:\WpfDesigner-master\XamlDesigner\bin\Release\net6.0-windows\SharpDevelop XamlDesigner.dll.config
+D:\WpfDesigner-master\XamlDesigner\bin\Release\net6.0-windows\SharpDevelop XamlDesigner.deps.json
+D:\WpfDesigner-master\XamlDesigner\bin\Release\net6.0-windows\SharpDevelop XamlDesigner.runtimeconfig.json
+D:\WpfDesigner-master\XamlDesigner\bin\Release\net6.0-windows\SharpDevelop XamlDesigner.dll
+D:\WpfDesigner-master\XamlDesigner\bin\Release\net6.0-windows\SharpDevelop XamlDesigner.pdb
+D:\WpfDesigner-master\XamlDesigner\bin\Release\net6.0-windows\ICSharpCode.WpfDesign.Designer.xml
+D:\WpfDesigner-master\XamlDesigner\bin\Release\net6.0-windows\ICSharpCode.WpfDesign.XamlDom.xml
+D:\WpfDesigner-master\XamlDesigner\bin\Release\net6.0-windows\ICSharpCode.WpfDesign.xml
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\Demo.XamlDesigner.csproj.AssemblyReference.cache
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\BitmapButton.baml
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\DocumentView.baml
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\EnumBar.baml
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\ErrorListView.baml
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\TestFiles\1.baml
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\TestFiles\2.baml
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\TestFiles\3.baml
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\TestFiles\4.baml
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\TestFiles\5.baml
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\BitmapButton.g.cs
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\DocumentView.g.cs
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\EnumBar.g.cs
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\ErrorListView.g.cs
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\MainWindow.g.cs
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\ToolboxView.g.cs
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\App.g.cs
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\SharpDevelop XamlDesigner_MarkupCompile.cache
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\SharpDevelop XamlDesigner_MarkupCompile.lref
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\App.baml
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\MainWindow.baml
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\Themes\Generic.baml
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\ToolboxView.baml
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\SharpDevelop XamlDesigner.g.resources
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\Demo.XamlDesigner.GeneratedMSBuildEditorConfig.editorconfig
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\Demo.XamlDesigner.csproj.CoreCompileInputs.cache
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\Demo.XamlDesigner.csproj.CopyComplete
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\SharpDevelop XamlDesigner.dll
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\refint\SharpDevelop XamlDesigner.dll
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\SharpDevelop XamlDesigner.pdb
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\Demo.XamlDesigner.genruntimeconfig.cache
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\ref\SharpDevelop XamlDesigner.dll
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\Demo.XamlDesigner.csproj.Fody.CopyLocal.cache
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\Demo.XamlDesigner.csproj.Fody.RuntimeCopyLocal.cache
+D:\WpfDesigner-master\XamlDesigner\obj\Release\net6.0-windows\SharpDevelop XamlDesigner_Content.g.cs
